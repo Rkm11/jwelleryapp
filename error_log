@@ -1,0 +1,6 @@
+[19-Jan-2017 01:42:47 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/solve24hrs/public_html/jwelleryApp/application/controllers/web_services.php on line 1312
+[19-Jan-2017 01:44:02 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/solve24hrs/public_html/jwelleryApp/application/controllers/web_services.php on line 1312
+[19-Jan-2017 01:44:20 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/solve24hrs/public_html/jwelleryApp/application/controllers/web_services.php on line 1312
+[19-Jan-2017 01:46:06 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/solve24hrs/public_html/jwelleryApp/application/controllers/web_services.php on line 1312
+[19-Jan-2017 01:47:16 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/solve24hrs/public_html/jwelleryApp/application/controllers/web_services.php on line 1313
+[19-Jan-2017 01:51:46 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/solve24hrs/public_html/jwelleryApp/application/controllers/web_services.php on line 1313
