@@ -55,10 +55,10 @@ mysql, mysqli, postgre, odbc, mssql, sqlite, oci8
 
 $active_group = 'default';
 $active_record = TRUE;
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'root';
-$db['default']['database'] = 'jwellery';
+$db['default']['hostname'] = 'ftp.textileexport.net';
+$db['default']['username'] = 'uncotech';
+$db['default']['password'] = 'unco123';
+$db['default']['database'] = 'i3803063_jwel';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = 'jwell_';
 $db['default']['pconnect'] = TRUE;
