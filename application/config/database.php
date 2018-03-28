@@ -55,7 +55,7 @@ mysql, mysqli, postgre, odbc, mssql, sqlite, oci8
 
 $active_group = 'default';
 $active_record = TRUE;
-$db['default']['hostname'] = 'ftp.textileexport.net';
+$db['default']['hostname'] = 'https://www.textileexport.net';
 $db['default']['username'] = 'uncotech';
 $db['default']['password'] = 'unco123';
 $db['default']['database'] = 'i3803063_jwel';
