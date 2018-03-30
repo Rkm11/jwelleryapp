@@ -55,11 +55,11 @@ mysql, mysqli, postgre, odbc, mssql, sqlite, oci8
 
 $active_group = 'default';
 $active_record = TRUE;
-$db['default']['hostname'] = 'https://www.textileexport.net';
-$db['default']['username'] = 'uncotech';
-$db['default']['password'] = 'unco123';
-$db['default']['database'] = 'i3803063_jwel';
-$db['default']['dbdriver'] = 'mysqli';
+$db['default']['hostname'] = 'https://ec2-54-221-220-59.compute-1.amazonaws.com';
+$db['default']['username'] = 'jcbcoshrsqminw';
+$db['default']['password'] = '8bc7415ab1de0eb5d1a85394f289611a476714219ccfd5f417d9305955e79f87';
+$db['default']['database'] = 'd3bo4olhhueiqp';
+$db['default']['dbdriver'] = 'pdo';
 $db['default']['dbprefix'] = 'jwell_';
 $db['default']['pconnect'] = TRUE;
 $db['default']['db_debug'] = TRUE;
